@@ -6,3 +6,6 @@ The repository, mainly does not contain code. And does not need to be launched i
 For those wanting to pull request any files, please clone the repository into your own github and then submit any pull request. 
 Please be advised, that it is easier and quicker to create issues for this particular repository.
 
+# What is Golos Fund?
+
+Golos•Fund - Venture investment fund into applications and programmers on the Golos blockchain
